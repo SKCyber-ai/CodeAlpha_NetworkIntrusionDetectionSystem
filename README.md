@@ -1,6 +1,6 @@
 # CodeAlpha_NetworkIntrusionDetectionSystem
 
-Task 4 — Network Intrusion Detection System**
+**Task 4 — Network Intrusion Detection System**
 CodeAlpha Cybersecurity Internship
 
 ## Overview
