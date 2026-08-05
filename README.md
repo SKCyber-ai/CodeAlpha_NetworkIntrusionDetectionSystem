@@ -129,3 +129,12 @@ of activity are being flagged most often.
   avoid conflicts with community/Emerging Threats rule sets.
 - This project is for educational purposes as part of the CodeAlpha
   Cybersecurity Internship (Task 4).
+
+# CodeAlpha_NetworkIntrusionDetectionSystem
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Suricata](https://img.shields.io/badge/Suricata-IDS-red)
+![Platform](https://img.shields.io/badge/Platform-Ubuntu-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+Task 4 — Network Intrusion Detection System
